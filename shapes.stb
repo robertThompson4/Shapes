@@ -1,0 +1,67 @@
+Background
+Background(Width Height): 1000 1000
+Background RGB(Red Green Blue): 255 255 255
+
+Rectangle
+Center Coordinates(X Y): 130 130
+Rectangle Width and Height (width height): 100 45
+Rectangle RGB (Red Green Blue): 0 255 0 
+Shadow? (Y/N): Y
+
+Rectangle
+Center Coordinates(X Y): 350 500
+Rectangle Width and Height (width height): 100 100
+Rectangle RGB (Red Green Blue): 255 255 0 
+Shadow? (Y/N): Y
+
+RightTriangle
+Center Coordinates(X Y): 300 300
+Triangle Width and Height (width height): 150 150
+Triangle RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Diamond
+Center Coordinates(X Y): 700 200
+Diamond Width and Height (width height): 200 200
+Diamond RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Diamond
+Center Coordinates(X Y): 700 200
+Diamond Width and Height (width height): 100 100
+Diamond RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): N
+
+Star
+Center Coordinates(X Y): 650 450
+Star Radius (Radius): 75
+Star RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Point
+Coordinates(X Y): 890 890
+Point RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Polygon
+Coordinates(X Y X Y...): 550 550 450 650 550 780 650 780 800 650
+Polygon RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Circle
+Center Coordinates(X Y): 250 850
+Circle Radius (Radius): 100
+Circle RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): Y
+
+Circle
+Center Coordinates(X Y): 250 850
+Circle Radius (Radius): 75
+Circle RGB (Red Green Blue): 255 0 255
+Shadow? (Y/N): N
+
+Line
+Starting Coord(X Y): 0 450
+Ending Coord(X Y): 200 450
+Line RGB (Red Green Blue): 255 0 0
+Shadow? (Y/N): N
